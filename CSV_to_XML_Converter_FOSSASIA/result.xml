@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="C:/Users/Anish/Desktop/CSVtoXML-master/transform.xsl"?>
+<root>
+<element>
+<name>Warlock</name>
+<class>wizard</class>
+<attack>range</attack>
+<damage>5</damage>
+<rateoffire>3</rateoffire>
+<speed>4</speed>
+<bio>Likes magic</bio>
+</element>
+<element>
+<name>Barbarian</name>
+<class>fight</class>
+<attack>melee</attack>
+<damage>10</damage>
+<rateoffire>5</rateoffire>
+<speed>1</speed>
+<bio>Got a sword</bio>
+</element>
+<element>
+<name>Ninja</name>
+<class>fight</class>
+<attack>melee/ranged</attack>
+<damage>5</damage>
+<rateoffire>4</rateoffire>
+<speed>10</speed>
+<bio>Super secret stealth master</bio>
+</element>
+</root>

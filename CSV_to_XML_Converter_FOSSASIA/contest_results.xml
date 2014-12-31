@@ -1,0 +1,34 @@
+<root>
+<csv__to__xml.Contestant>
+  <name>John Doe</name>
+  <major>Agricultural studies</major>
+  <institution>Harvard University</institution>
+  <score>98</score>
+</csv__to__xml.Contestant>
+<csv__to__xml.Contestant>
+  <name>Sam Adams</name>
+  <major>Biology</major>
+  <institution>Dartmouth College</institution>
+  <score>87</score>
+</csv__to__xml.Contestant><csv__to__xml.Contestant>
+  <name>James Isner</name>
+  <major>Computer Science</major>
+  <institution>MIT</institution>
+  <score>100</score>
+</csv__to__xml.Contestant><csv__to__xml.Contestant>
+  <name>George Orwell</name>
+  <major>English Literature</major>
+  <institution>Eton College</institution>
+  <score>99</score>
+</csv__to__xml.Contestant><csv__to__xml.Contestant>
+  <name>Patrick Chang</name>
+  <major>Computer Science</major>
+  <institution>National University of Singapore</institution>
+  <score>93</score>
+</csv__to__xml.Contestant><csv__to__xml.Contestant>
+  <name>Ajay Babu</name>
+  <major>Computer Science</major>
+  <institution>National University of Singapore</institution>
+  <score>92</score>
+</csv__to__xml.Contestant>
+</root>

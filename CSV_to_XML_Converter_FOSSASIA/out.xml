@@ -1,0 +1,25 @@
+<html>
+<body>
+<h2>Qualified Contestants</h2>
+<table border="1">
+<tr bgcolor="#9acd32">
+<th>Name</th><th>Score</th><th>Occupation</th><th>Institution</th>
+</tr>
+<tr>
+<td>Ajay Babu</td><td>92</td><td>Computer Science</td><td>National University of Singapore</td>
+</tr>
+<tr>
+<td>George Orwell</td><td>99</td><td>English Literature</td><td>Eton College</td>
+</tr>
+<tr>
+<td>James Isner</td><td>100</td><td>Computer Science</td><td>MIT</td>
+</tr>
+<tr>
+<td>John Doe</td><td>98</td><td>Agricultural studies</td><td>Harvard University</td>
+</tr>
+<tr>
+<td>Patrick Chang</td><td>93</td><td>Computer Science</td><td>National University of Singapore</td>
+</tr>
+</table>
+</body>
+</html>
